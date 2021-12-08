@@ -2,6 +2,7 @@ import turtle as t
 import random
 
 tim = t.Turtle()
+tim.hideturtle()
 t.colormode(255)
 tim.speed("fastest")
 colors = [
